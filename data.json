@@ -1,0 +1,282 @@
+[
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/square.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_square.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "magenta",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/magenta_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/triangle.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_triangle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/pentagon.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_pentagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/hexagon.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_hexagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/diamond.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_diamond.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "yellow",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/yellow_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/circle.png",
+    "colour": "orange",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/orange_circle.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/octagon.png",
+    "colour": "blue",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/blue_octagon.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/star.png",
+    "colour": "red",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/red_star.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/star.png",
+    "colour": "green",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/green_star.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/star.png",
+    "colour": "cyan",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/cyan_star.png"
+  },
+  {
+    "input_polygon": "C:/Users/User/Downloads/dataset/dataset/training/inputs/star.png",
+    "colour": "purple",
+    "output_image": "C:/Users/User/Downloads/dataset/dataset/training/outputs/purple_star.png"
+  }
+]
